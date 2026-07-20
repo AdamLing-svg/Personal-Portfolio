@@ -12,7 +12,7 @@ power requirements, and wing loading. Evaluated 3 candidate airfoils in XFLR5, i
 coefficient (1.4→1.5) and static margin (6%→14%) for a design that proceeded to manufacturing 
 (in progress).
 
-- [Report / CDR docs](./rc3-2026/)
+- [Relevant CDR content](./rc3-2026/)
 - [MATLAB sizing model](./rc3-2026/code)
 
 ---
@@ -24,8 +24,8 @@ Developed the mission profile and mass budget, led mechanical system design (mou
 interfaces, hull), and sized the recovery system. Sourced flight hardware (GPS, altimeter, IMU, RF 
 module) and developed wiring schematics for software integration.
 
-- [Design report](./tmu-cansat/)
-- [CAD / schematics](./tmu-cansat/design)
+- [PDR](./tmu-cansat/)
+- [Schematics](./tmu-cansat/design)
 
 ---
 
@@ -49,5 +49,29 @@ compatibility with a competitor unit's ratio, output interface, and mounting geo
 weighted decision matrix to select between two competing design concepts.
 
 - [Full report](./battlebot-gearbox/report.pdf)
+
+---
+
+### Four-Bar Linkage Walking Mechanism
+*Mar 2026 – Apr 2026*
+
+Produced a walking robot that utilizes a linkage mechanism to translate rotational motor by a given 
+drivetrain into a walking motion without wheels. Evaluated various designs using MATLAB analysis, manufactured
+a physical robot that executed a successful walking motion through laser cutting and 3D printing, and documented 
+the design in the form of a technical report. 
+
+- [Full report](./battlebot-gearbox/report.pdf)
+- [MATLAB 3-bar linkage model](./linkage-2026/code)
+
+---
+
+### Stepladder Redesign for Aviation Applications
+*Jan 2025 – Apr 2025*
+
+In a team setting, designed a step-ladder solution for aircraft cabins to provide better accessibility to overhead 
+compartments, reducing inconvenience and work hazards for flight attendants. Conducted a literature review of aviation
+regulations and current designs, following through with the design process, leading to a finalized design documented in a final report.
+
+- [Full report](./stepladder/report.pdf)
 
 ---
