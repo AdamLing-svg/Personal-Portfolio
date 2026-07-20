@@ -32,8 +32,8 @@ module) and developed wiring schematics for software integration.
 ### Flight Simulator Physics Engine
 *Mar 2026–Apr 2026*
 
-Built force and moment modules in Simulink for a six-degree-of-freedom flight simulator — modelling 
-aerodynamic forces, thrust, gravity, inertia, and rotational dynamics — integrated with FlightGear 
+Built force and moment modules in Simulink for a six-degree-of-freedom flight simulator that modelled 
+aerodynamic forces, thrust, gravity, inertia, and rotational dynamics. Modules were integrated with FlightGear 
 visualization and joystick input.
 
 - [Technical report](./flight-sim-physics-engine/report.pdf)
