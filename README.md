@@ -10,7 +10,7 @@ Third-year Aerospace Engineering student at Toronto Metropolitan University (spa
 Built a MATLAB performance-sizing model to derive takeoff speed, an 8 m/s stall speed target, 
 power requirements, and wing loading. Evaluated 3 candidate airfoils in XFLR5, improving lift 
 coefficient (1.4→1.5) and static margin (6%→14%) for a design that proceeded to manufacturing 
-(in progress).
+(in progress). Below is the final CDR and MATLAB sizing model. 
 
 - [Relevant CDR content](./rc3-2026/)
 - [MATLAB sizing model](./rc3-2026/code)
