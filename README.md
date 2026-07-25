@@ -12,8 +12,7 @@ power requirements, and wing loading. Evaluated 3 candidate airfoils in XFLR5, i
 coefficient (1.4→1.5), static margin (6%→16%), and meeting elevator trim requirements for a 
 design that proceeded to manufacturing (in progress). Below is the final CDR and MATLAB sizing model. 
 
-- [Relevant CDR content](./rc3-2026/)
-- [MATLAB sizing model](./rc3-2026/code)
+- [Relevant CDR content and the MATLAB sizing model](./rc3-2026/)
 
 ---
 
