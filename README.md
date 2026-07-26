@@ -11,7 +11,7 @@ Built a MATLAB performance-sizing model to derive takeoff speed, an 8 m/s stall 
 power requirements, and wing loading. Evaluated 3 candidate airfoils in XFLR5, improving lift 
 coefficient (1.4→1.5), static margin (6%→16%), and exceeding elevator trim requirements for a 
 design that proceeded to manufacturing (in progress). Below is the final CDR, MATLAB sizing model,
-and project brief. 
+and design brief. 
 
 - [Relevant CDR content and the MATLAB sizing model](./rc3-2026/)
 
@@ -22,10 +22,10 @@ and project brief.
 
 Developed the mission profile and mass budget, led mechanical system design (mounting, release 
 interfaces, hull), and sized the recovery system. Sourced flight hardware (GPS, altimeter, IMU, RF 
-module) and developed wiring schematics for software integration.
+module) and developed wiring schematics for software integration. Below is the final PDR, documentation 
+regarding avionics, and the design brief. 
 
-- [PDR](./tmu-cansat/)
-- [Schematics](./tmu-cansat/design)
+- [Final PDR and schematic documentation](./tmu-cansat/)
 
 ---
 
