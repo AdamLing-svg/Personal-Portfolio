@@ -23,7 +23,7 @@ and design brief.
 Developed the mission profile and mass budget, led mechanical system design (mounting, release 
 interfaces, hull), and sized the recovery system. Sourced flight hardware (GPS, altimeter, IMU, RF 
 module) and developed wiring schematics for software integration. Participated in manufacturing by 
-purchasing necessary components and soldering/wiring avionics. Below is the final PDR, avionics 
+purchasing components and soldering/wiring avionics. Below is the final PDR, avionics 
 documentation, and design brief. 
 
 - [Final PDR and schematic documentation](./tmu-cansat/)
