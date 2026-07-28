@@ -50,7 +50,7 @@ compatibility with a competitor unit's ratio, output interface, and mounting geo
 documented research, problem analysis, trade-offs, and the preliminary design. I then evaluated the final two 
 preliminary design options to yield a final product decision. 
 
-- [Final technical report](./gearbox-project/)
+- [Technical report](./gearbox-project/)
 
 ---
 
@@ -62,8 +62,7 @@ drivetrain into a walking motion without wheels. Evaluated various designs using
 a physical robot that executed a successful walking motion through laser cutting and 3D printing, and documented 
 the design in the form of a technical report. 
 
-- [Full report](./battlebot-linkage/report.pdf)
-- [MATLAB 3-bar linkage model](./linkage-2026/code)
+- [Technical report and MATLAB 3-bar linkage model](./battlebot-linkage/)
 
 ---
 
