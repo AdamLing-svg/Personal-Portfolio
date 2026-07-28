@@ -32,12 +32,13 @@ Below is the final PDR, avionics documentation, and design brief.
 *Mar 2026–Apr 2026*
 
 Built force and moment modules in Simulink for a six-degree-of-freedom flight simulator that modelled 
-aerodynamic forces, thrust, gravity, inertia, and rotational dynamics. Modules were integrated with FlightGear 
-visualization and joystick input. Results and process were documented. Below are the completed final report, 
-Simulink modules, and project brief. 
+aerodynamic forces, thrust, gravity, inertia, and rotational dynamics. Modules were integrated with 
+FlightGear visualization and joystick input. Results and process were documented. Below are the completed 
+final report, Simulink modules, and project brief. To operate the modules, download all files and run 
+RunAircraftModel_AdamForceMomentVersion.m and then run the Simulink (slx) file. 
 
 - [Technical report and project brief](./flight-sim-physics-engine/)
-- [Simulink modules](./flight-sim-physics-code/)
+- [Force and moment Simulink modules](./flight-sim-physics-code/)
 
 ---
 
@@ -45,9 +46,9 @@ Simulink modules, and project brief.
 *Jan 2026–Mar 2026*
 
 Redesigned a spur-gear battle-bot gearbox for cost, alignment, and efficiency while preserving 
-compatibility with a competitor unit's ratio, output interface, and mounting geometry. Completed and documented research, 
-problem analysis, trade-offs, and the preliminary design into a final report. I then evaluated the final two 
-preliminary design options to yield a final product. 
+compatibility with a competitor unit's ratio, output interface, and mounting geometry. Completed and 
+documented research, problem analysis, trade-offs, and the preliminary design. I then evaluated the final two 
+preliminary design options to yield a final product decision. 
 
 - [Full report](./battlebot-gearbox/report.pdf)
 
