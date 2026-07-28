@@ -5,20 +5,19 @@ Third-year Aerospace Engineering student at Toronto Metropolitan University (spa
 # Projects
 
 ### RC3 2026 — Performance Sizing & Airfoil Selection
-*Toronto Metropolitan Aerospace Design (TMAD), Delivery Stream — Jan 2026–Present*
+*Toronto Metropolitan Aerospace Design (TMAD), Delivery Stream: Jan 2026–Present*
 
 Built a MATLAB performance-sizing model to derive takeoff speed, an 8 m/s stall speed target, 
-power requirements, and wing loading. Evaluated 3 candidate airfoils 
-in XFLR5, improving lift coefficient (1.4→1.5), static margin (6%→16%), and exceeding elevator trim requirements 
-for a design that proceeded to manufacturing (in progress). Below is the final CDR, MATLAB sizing model,
-and design brief. 
+power requirements, and wing loading. Evaluated 3 candidate airfoils in XFLR5, improving lift coefficient 
+(1.4→1.5), static margin (6%→16%), and exceeding elevator trim requirements for a design that proceeded to manufacturing 
+(in progress). Below is the final CDR, MATLAB sizing model, and design brief. 
 
 - [Relevant CDR content and the MATLAB sizing model](./rc3-2026/)
 
 ---
 
 ### TMU CanSat — Mission & Mechanical Design
-*STEC Initiative Competition — Jan 2026–July 2026*
+*STEC Initiative Competition: Jan 2026–July 2026*
 
 Developed the mission profile and mass budget, led mechanical system design (mounting, release 
 interfaces, hull), and sized the recovery system. Sourced flight hardware (GPS, altimeter, IMU, RF 
@@ -60,7 +59,7 @@ drivetrain into a walking motion without wheels. Evaluated various designs using
 a physical robot that executed a successful walking motion through laser cutting and 3D printing, and documented 
 the design in the form of a technical report. 
 
-- [Full report](./battlebot-gearbox/report.pdf)
+- [Full report](./battlebot-linkage/report.pdf)
 - [MATLAB 3-bar linkage model](./linkage-2026/code)
 
 ---
