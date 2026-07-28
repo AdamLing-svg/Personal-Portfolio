@@ -9,8 +9,8 @@ Third-year Aerospace Engineering student at Toronto Metropolitan University (spa
 
 Built a MATLAB performance-sizing model to derive takeoff speed, an 8 m/s stall speed target, 
 power requirements, and wing loading. Evaluated 3 candidate airfoils in XFLR5, improving lift coefficient 
-(1.4→1.5), static margin (6%→16%), and exceeding elevator trim requirements for a design that proceeded to manufacturing 
-(in progress). Below is the final CDR, MATLAB sizing model, and design brief. 
+(1.4→1.5), static margin (6%→16%), and exceeding elevator trim requirements for a design that proceeded to 
+manufacturing (in progress). Below is the final CDR, MATLAB sizing model, and design brief. 
 
 - [Relevant CDR content and the MATLAB sizing model](./rc3-2026/)
 
@@ -33,9 +33,10 @@ Below is the final PDR, avionics documentation, and design brief.
 
 Built force and moment modules in Simulink for a six-degree-of-freedom flight simulator that modelled 
 aerodynamic forces, thrust, gravity, inertia, and rotational dynamics. Modules were integrated with FlightGear 
-visualization and joystick input.
+visualization and joystick input. Results and process were documented. Below are the completed final report, 
+Simulink modules, and project brief. 
 
-- [Technical report](./flight-sim-physics-engine/report.pdf)
+- [Technical report and project brief](./flight-sim-physics-engine/report.pdf)
 - [Simulink modules](./flight-sim-physics-engine/code)
 
 ---
@@ -44,8 +45,9 @@ visualization and joystick input.
 *Jan 2026–Mar 2026*
 
 Redesigned a spur-gear battle-bot gearbox for cost, alignment, and efficiency while preserving 
-compatibility with a competitor unit's ratio, output interface, and mounting geometry. Built a 
-weighted decision matrix to select between two competing design concepts.
+compatibility with a competitor unit's ratio, output interface, and mounting geometry. Completed and documented research, 
+problem analysis, trade-offs, and the preliminary design into a final report. I then evaluated the final two 
+preliminary design options to yield a final product. 
 
 - [Full report](./battlebot-gearbox/report.pdf)
 
