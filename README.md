@@ -36,8 +36,8 @@ aerodynamic forces, thrust, gravity, inertia, and rotational dynamics. Modules w
 visualization and joystick input. Results and process were documented. Below are the completed final report, 
 Simulink modules, and project brief. 
 
-- [Technical report and project brief](./flight-sim-physics-engine/report.pdf)
-- [Simulink modules](./flight-sim-physics-engine/code)
+- [Technical report and project brief](./flight-sim-physics-engine/)
+- [Simulink modules](./flight-sim-physics-engine/)
 
 ---
 
