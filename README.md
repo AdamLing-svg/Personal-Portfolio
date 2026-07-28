@@ -50,7 +50,7 @@ compatibility with a competitor unit's ratio, output interface, and mounting geo
 documented research, problem analysis, trade-offs, and the preliminary design. I then evaluated the final two 
 preliminary design options to yield a final product decision. 
 
-- [Full report](./battlebot-gearbox/report.pdf)
+- [Final technical report](./battlebot-gearbox/report.pdf)
 
 ---
 
