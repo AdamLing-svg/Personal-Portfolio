@@ -62,7 +62,7 @@ drivetrain into a walking motion without wheels. Evaluated various designs using
 a physical robot that executed a successful walking motion through laser cutting and 3D printing, and documented 
 the design in the form of a technical report. 
 
-- [Technical report and MATLAB 3-bar linkage model](./battlebot-linkage/)
+- [Technical report and MATLAB 3-bar linkage model](./walking-robot-linkage/)
 
 ---
 
