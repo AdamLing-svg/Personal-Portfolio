@@ -37,7 +37,7 @@ visualization and joystick input. Results and process were documented. Below are
 Simulink modules, and project brief. 
 
 - [Technical report and project brief](./flight-sim-physics-engine/)
-- [Simulink modules](./flight-sim-physics-engine/)
+- [Simulink modules](./flight-sim-physics-code/)
 
 ---
 
