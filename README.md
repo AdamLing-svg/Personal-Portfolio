@@ -69,10 +69,8 @@ the design in the form of a technical report.
 ### Stepladder Redesign for Aviation Applications
 *Jan 2025 – Apr 2025*
 
-In a team setting, designed a step-ladder solution for aircraft cabins to provide better accessibility to overhead 
-compartments, reducing inconvenience and work hazards for flight attendants. Conducted a literature review of aviation
-regulations and current designs, following through with the design process, leading to a finalized design documented in a final report.
+In a team setting, designed a step-ladder solution for aircraft cabins to improve accessibility to overhead compartments and reduce work hazards for flight attendants. Defined design requirements from FAA, OSHA, and ANSI regulations, led the conceptual design through two rejected iterations, and finalized a single-step scissor design with a mechanical locking mechanism.
 
-- [Full report](./stepladder/report.pdf)
+- [Technical Report](./stepladder/)
 
 ---
