@@ -10,9 +10,12 @@ Third-year Aerospace Engineering student at Toronto Metropolitan University (spa
 Built a MATLAB performance-sizing model to derive takeoff speed, an 8 m/s stall speed target, 
 power requirements, and wing loading. Evaluated 3 candidate airfoils in XFLR5, improving lift coefficient 
 (1.4→1.5), static margin (6%→16%), and exceeding elevator trim requirements for a design that proceeded to 
-manufacturing (in progress). Below is the final CDR, MATLAB sizing model, and design brief. 
+manufacturing. I primarily contributed to dry-fitting, assembling, and epoxy-fitting the fuse, nose, wing, 
+and landing gear before applying MonoKote. A successful test flight validated performance before a landing 
+incident ended eligibility. Below is the final CDR, MATLAB sizing model, design brief, and manufacturing content.  
 
 - [Relevant CDR content and the MATLAB sizing model](./rc3-2026/)
+- [Relevant manufacturing content](./rc3manu-2026/)
 
 ---
 
