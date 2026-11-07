@@ -35,7 +35,8 @@ module) and developed wiring schematics for manufacturing. Contributed to manufa
 Implements the CanSat electrical onboarding design task: a compact 3.3 V IMU + magnetometer breakout board for real-time deployable-boom orientation sensing. Includes component selection and engineering trade-offs, SPI interface design, KiCad schematic and 4-layer PCB layout, M2 mounting, power/ground strategy, sensor placement considerations, design verification, schematic PDF, Gerber/drill manufacturing files, and supporting design documentation. The design targets ≥400 Hz IMU sampling, ≥100 Hz magnetometer sampling, reliable communication over up to 20 cm, and approximately 20 g launch acceleration.
 
 - [GBR and drill files](./tmu-cansat-gbr-drill/)
-- [IMU and MAG imported footprint files](./tmu-cansat-IMU-MAG/)
+- [IMU and MAG imported footprint files](./tmu-cansat-IMU/)
+- [MAG imported footprint files](./tmu-cansat-MAG/)
 - [KiCAD project files and design document](./tmu-cansat-KiCAD-Design/)
 
 ---
